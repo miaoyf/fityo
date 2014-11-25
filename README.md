@@ -2,7 +2,7 @@
 
 # fityo
 
-
+使用NodeJS+express+ejs开发的工程，IDE是Eclipse+EGIT插件
 
 ## Usage
 
